@@ -1,0 +1,387 @@
+[
+ {
+  "id": "BB-L001",
+  "locality": "Kalyan Thane",
+  "doc": "https://docs.google.com/document/d/1ChUra0m70QVUSnErX4qcqAU7FOznl4Sr3EoU2lPje5Y/edit",
+  "live": "https://www.squareyards.com/kalyan-in-thane-overview-298",
+  "notes": "Pilot version (v5/v4 template)"
+ },
+ {
+  "id": "BB-L002",
+  "locality": "Marine Drive Mumbai",
+  "doc": "https://docs.google.com/document/d/1HU3fOh2-ENQwHdRVl-jXijmOSl9C-Oud72kC4xsyKTc/edit",
+  "live": "https://www.squareyards.com/marine-drive-in-mumbai-overview-96911",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L003",
+  "locality": "Sector 62 Noida",
+  "doc": "https://docs.google.com/document/d/1iXnIJmdlsmP0YW-oyWarwwTsuzwRuAHPHFJeAwBtFbc/edit",
+  "live": "https://www.squareyards.com/sector-62-in-noida-overview-366",
+  "notes": "Pilot version (v5/v4 template)"
+ },
+ {
+  "id": "BB-L004",
+  "locality": "Sector 18 Noida",
+  "doc": "https://docs.google.com/document/d/11EwOJ7wsLewWMYNzEZhDAw1GLkBa0Cx3BngTuRHcDoU/edit",
+  "live": "https://www.squareyards.com/sector-18-in-noida-overview-278",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L005",
+  "locality": "Nathdwara Rajsamand",
+  "doc": "https://docs.google.com/document/d/1qWws8pOFq-AuXAsijxUS96MZmlpvPUWr7l9BV4qBz_o/edit",
+  "live": "https://www.squareyards.com/nathdwara-in-rajsamand-overview-82797",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L006",
+  "locality": "Varkala Thiruvananthapuram",
+  "doc": "https://docs.google.com/document/d/1rmsQdwIBJcTk9hyGrZ0bPMl7rBCGaRS9yBwhYVDPpFQ/edit",
+  "live": "https://www.squareyards.com/varkala-in-thiruvananthapuram-overview-81557",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L007",
+  "locality": "Talegaon Dabhade Pune",
+  "doc": "https://docs.google.com/document/d/1ALHGNeoX1O5f05TyuFGvElheFSHIcMCAiZe2p1mO-6s/edit",
+  "live": "https://www.squareyards.com/talegaon-dabhade-in-pune-overview-868",
+  "notes": "Reference doc (existing)"
+ },
+ {
+  "id": "BB-L008",
+  "locality": "Sholinganallur Chennai",
+  "doc": "https://docs.google.com/document/d/1gWa0Rlo7nOzLnfb2mQ3u8sDodJoFreiPx4vB3m_wivo/edit",
+  "live": "https://www.squareyards.com/sholinganallur-in-chennai-overview-1068",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L009",
+  "locality": "Dwarka Mor Delhi",
+  "doc": "https://docs.google.com/document/d/10qkme3rYfk419rmgZ7L735SRRWX76uu6h_JTQ__5Pms/edit",
+  "live": "https://www.squareyards.com/dwarka-mor-in-delhi-overview-4047",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L010",
+  "locality": "Chembur Mumbai",
+  "doc": "https://docs.google.com/document/d/1NZNsKBMUTXQg3T3XP9MLFP3eQ53V0ZRBAjhXHsHwl3E/edit",
+  "live": "https://www.squareyards.com/chembur-in-mumbai-overview-905",
+  "notes": "Pilot version (v5/v4 template)"
+ },
+ {
+  "id": "BB-L011",
+  "locality": "Panjim Goa",
+  "doc": "https://docs.google.com/document/d/1J9EZhbGjiwdDzn2gkgQoLXsFYTilHfcTceA3eK4zYpI/edit",
+  "live": "https://www.squareyards.com/panjim-in-goa-overview-80749",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L012",
+  "locality": "Golconda Fort Hyderabad",
+  "doc": "https://docs.google.com/document/d/1udYh_xOsIvDk6ms_QmB4_4HS9wQBe3fQT5JhPajJTsw/edit",
+  "live": "https://www.squareyards.com/golconda-fort-in-hyderabad-overview-58719",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L013",
+  "locality": "Sector 37 Noida",
+  "doc": "https://docs.google.com/document/d/1UKrRASOqQxkRbAAPI7ZGf102-8YQ2XBEQJHupu0s6yg/edit",
+  "live": "https://www.squareyards.com/sector-37-in-noida-overview-375",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L014",
+  "locality": "Madhapur Hyderabad",
+  "doc": "https://docs.google.com/document/d/1XxpKFfmHScSRTlXU09Wiq_8qItnQ-oLtHxotWL3BLdI/edit",
+  "live": "https://www.squareyards.com/madhapur-in-hyderabad-overview-1155",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L015",
+  "locality": "Basant Vihar Delhi",
+  "doc": "https://docs.google.com/document/d/1TuHF1RZDmZpDOX322zygeX4CTEwAgP7k93eJVzSQ37E/edit",
+  "live": "https://www.squareyards.com/basant-vihar-in-delhi-overview-68697",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first; developer list near-identical to Lodhi Garden and Nehru Nagar pages (comes from live page as-is)"
+ },
+ {
+  "id": "BB-L016",
+  "locality": "CBD Belapur Navi Mumbai",
+  "doc": "https://docs.google.com/document/d/1Qy66f3p7w_C5ns4IE4nuXswCBYjokEDublRKwplLhHg/edit",
+  "live": "https://www.squareyards.com/cbd-belapur-in-navi-mumbai-overview-292",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L017",
+  "locality": "Jal Mahal Jaipur",
+  "doc": "https://docs.google.com/document/d/1qA2f9HaYl3VCpgvVbs4_0Eg83kvCI9_Ae53E-bS0IPc/edit",
+  "live": "https://www.squareyards.com/jal-mahal-in-jaipur-overview-116660",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first; Jal Mahal palace reference uses general local knowledge"
+ },
+ {
+  "id": "BB-L018",
+  "locality": "Vasant Kunj Delhi",
+  "doc": "https://docs.google.com/document/d/1UaurU8SziXpGhLVs5Z005Iv1TWxgT2JPcT-2fGwWO58/edit",
+  "live": "https://www.squareyards.com/vasant-kunj-in-delhi-overview-2523",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L019",
+  "locality": "Sector 52 Noida",
+  "doc": "https://docs.google.com/document/d/1mc5Z8bMvjiuLRdWIS9sdKOqzLLzl5yVPBA7imdiKH4U/edit",
+  "live": "https://www.squareyards.com/sector-52-in-noida-overview-314",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L020",
+  "locality": "Kondapur Hyderabad",
+  "doc": "https://docs.google.com/document/d/1RvVnXVEFhfJHr58T2tg2PwWgB68_ks_FcxzaHU20KKU/edit",
+  "live": "https://www.squareyards.com/kondapur-in-hyderabad-overview-1141",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L021",
+  "locality": "Alibag Raigad",
+  "doc": "https://docs.google.com/document/d/1h13k_JS3TGGsqPeZZz4LQwqt6Zl7c5q1v2XEhvs4Nzo/edit",
+  "live": "https://www.squareyards.com/alibag-in-raigad-overview-96479",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L022",
+  "locality": "Kasauli Solan",
+  "doc": "https://docs.google.com/document/d/1Rv0dGe06dCLpraKWrgaizZbiKaq7RY6eukWiccNQuo4/edit",
+  "live": "https://www.squareyards.com/kasauli-in-solan-overview-33193",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L023",
+  "locality": "Lodhi Garden Delhi",
+  "doc": "https://docs.google.com/document/d/1QJ_mYJSDcrsT_B3P7-xOWP6UmtJL29ALZEdd_ABl4Kw/edit",
+  "live": "https://www.squareyards.com/lodhi-garden-in-delhi-overview-94848",
+  "notes": "v8 template | Developer list near-identical to Basant Vihar and Nehru Nagar pages (comes from live page as-is)"
+ },
+ {
+  "id": "BB-L024",
+  "locality": "Palladam Tirupur",
+  "doc": "https://docs.google.com/document/d/1_BtZJDxjCdFYM2IE0aC49VZpaRRQcZ1pod4KWPQNmUI/edit",
+  "live": "https://www.squareyards.com/palladam-in-tirupur-overview-83055",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L025",
+  "locality": "Nehru Nagar Delhi",
+  "doc": "https://docs.google.com/document/d/1l-Upt6WUPIIH-rfyCnTLpW3q29BX2h1yqv85h1o7_tM/edit",
+  "live": "https://www.squareyards.com/nehru-nagar-in-delhi-overview-2926",
+  "notes": "v8 template | Developer list near-identical to Basant Vihar and Lodhi Garden pages (comes from live page as-is)"
+ },
+ {
+  "id": "BB-L026",
+  "locality": "Vaishnodevi Circle Ahmedabad",
+  "doc": "https://docs.google.com/document/d/1d2ZpZe9MeSwuwgFVaJ4FB6v3AySvVJm7wy7EJ1G0x_c/edit",
+  "live": "https://www.squareyards.com/vaishnodevi-circle-in-ahmedabad-overview-19457",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L027",
+  "locality": "Sector 23 Gurgaon",
+  "doc": "https://docs.google.com/document/d/11bFNGDuDzZ9GadFr4ibI7NcOY7t5rNqIvat7bLuzGH4/edit",
+  "live": "https://www.squareyards.com/sector-23-in-gurgaon-overview-27",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L028",
+  "locality": "Farukh Nagar Gurgaon",
+  "doc": "https://docs.google.com/document/d/1xlKcjh_SBzKZZkByouwndqKCbV6_KTWSB4yaFOjUfoY/edit",
+  "live": "https://www.squareyards.com/farukh-nagar-in-gurgaon-overview-6889",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L029",
+  "locality": "Sector 44 Gurgaon",
+  "doc": "https://docs.google.com/document/d/1Zz7Kq-xZq2SNrRx-Bw7xAbz5obwGuV6IZ-CNQdguXE4/edit",
+  "live": "https://www.squareyards.com/sector-44-in-gurgaon-overview-56",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L030",
+  "locality": "Ganesh Nagar Delhi",
+  "doc": "https://docs.google.com/document/d/1w8J_nMo5XMLTAkqe6cCDdHDqszQhdnjj-06AYOuaRq0/edit",
+  "live": "https://www.squareyards.com/ganesh-nagar-in-delhi-overview-68153",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L031",
+  "locality": "Borivali East Mumbai",
+  "doc": "https://docs.google.com/document/d/1UGNax016aHICkexG9yRjfvN5Z5SL4Ra5wpW8krzcS9w/edit",
+  "live": "https://www.squareyards.com/borivali-east-in-mumbai-overview-925",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L032",
+  "locality": "Sector 50 Noida",
+  "doc": "https://docs.google.com/document/d/1Mv1KBB8qcGQLtDclQ9j7bjETMM_Db9gFAcIb12fz14w/edit",
+  "live": "https://www.squareyards.com/sector-50-in-noida-overview-282",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L033",
+  "locality": "Sector 49 Gurgaon",
+  "doc": "https://docs.google.com/document/d/1fOmy4iy3Omr7odeo3mHerLsp9mLA1vR9n2NA_TX4AeM/edit",
+  "live": "https://www.squareyards.com/sector-49-in-gurgaon-overview-61",
+  "notes": "v8 template | Conflicting figures on live page (PIN code, rank, counts); doc uses the more plausible one, confirm against page"
+ },
+ {
+  "id": "BB-L034",
+  "locality": "Sector 46 Gurgaon",
+  "doc": "https://docs.google.com/document/d/1toNw3X-hTDFwSiGwt6D5T02VRgoIdLTXbFUG1Px_QgM/edit",
+  "live": "https://www.squareyards.com/sector-46-in-gurgaon-overview-58",
+  "notes": "v8 template | Conflicting figures on live page (PIN code, rank, counts); doc uses the more plausible one, confirm against page"
+ },
+ {
+  "id": "BB-L035",
+  "locality": "Santacruz East Mumbai",
+  "doc": "https://docs.google.com/document/d/1J8WaJD8JAsxSZIzZhWac6e2pKJz8MwVFqDiI30yevcU/edit",
+  "live": "https://www.squareyards.com/santacruz-east-in-mumbai-overview-901",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L036",
+  "locality": "Katraj Pune",
+  "doc": "https://docs.google.com/document/d/1fJsLvOs79qyofwcASfSMp7q3PeQlK51dFH5JQ-QuCCY/edit",
+  "live": "https://www.squareyards.com/katraj-in-pune-overview-883",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L037",
+  "locality": "Govindpuram Ghaziabad",
+  "doc": "https://docs.google.com/document/d/1LmQqVzuua7163cwN0Qy-X69Uyyv-GvqnS5SB1K_Y38Y/edit",
+  "live": "https://www.squareyards.com/govindpuram-in-ghaziabad-overview-992",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L038",
+  "locality": "Jalahalli Cross Bangalore",
+  "doc": "https://docs.google.com/document/d/1-eNNjzcv3rMIZfkjaHX43hvH_cd2sVmjQJfz-bSP88I/edit",
+  "live": "https://www.squareyards.com/jalahalli-cross-in-bangalore-overview-3643",
+  "notes": "v8 template | Conflicting figures on live page (PIN code, rank, counts); doc uses the more plausible one, confirm against page"
+ },
+ {
+  "id": "BB-L039",
+  "locality": "Kukatpally Hyderabad",
+  "doc": "https://docs.google.com/document/d/1ah5pzra-ejBRwFPCXXK4DuPcb2X-a8UEF3h_cigoeyg/edit",
+  "live": "https://www.squareyards.com/kukatpally-in-hyderabad-overview-1128",
+  "notes": "v8 template | Page error: live page mentioned Bangalore places; left out of doc"
+ },
+ {
+  "id": "BB-L040",
+  "locality": "Chander Vihar Delhi",
+  "doc": "https://docs.google.com/document/d/1MEbWnx-rn6CT-xQC5ROfPhqKe1a4fukkl32EwCraG1A/edit",
+  "live": "https://www.squareyards.com/chander-vihar-in-delhi-overview-94676",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L041",
+  "locality": "Sector 21 Gurgaon",
+  "doc": "https://docs.google.com/document/d/10iL3jb8euBGvxIpM5KSOMslVcXNBWZb4tUM_UUw-T_k/edit",
+  "live": "https://www.squareyards.com/sector-21-in-gurgaon-overview-25",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L042",
+  "locality": "Sultanpuri Delhi",
+  "doc": "https://docs.google.com/document/d/18I0H_3mf2yn6OGAk5VN1T0kzuHbRS2tGk8VxPuAinIQ/edit",
+  "live": "https://www.squareyards.com/sultanpuri-in-delhi-overview-68473",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L043",
+  "locality": "Sector 4 Gurgaon",
+  "doc": "https://docs.google.com/document/d/1-zvnjmmGY-bu2ZBS9h6G6V1EDDhYOXEqz6nQkKO-psA/edit",
+  "live": "https://www.squareyards.com/sector-4-in-gurgaon-overview-4",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L044",
+  "locality": "Sector 16 Noida",
+  "doc": "https://docs.google.com/document/d/1T1O9dWsFWqfZ8Xom0BQiBOrmvl5J-oFq-cpCf9mOw0o/edit",
+  "live": "https://www.squareyards.com/sector-16-in-noida-overview-372",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L045",
+  "locality": "Maruti Kunj Gurgaon",
+  "doc": "https://docs.google.com/document/d/1KOWMlf5mUNnXZI23Mtk4AbkAVuTGjWeiUetIZzvl-js/edit",
+  "live": "https://www.squareyards.com/maruti-kunj-in-gurgaon-overview-93425",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L046",
+  "locality": "Hoskote Bangalore",
+  "doc": "https://docs.google.com/document/d/1egOoKFsHUy3gP7PYjz2H7WwII3CwKLB3sx6BRqYDt5Y/edit",
+  "live": "https://www.squareyards.com/hoskote-in-bangalore-overview-1440",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L047",
+  "locality": "Attibele Bangalore",
+  "doc": "https://docs.google.com/document/d/1HfEPWOkCFHYnh114qR8ANXjo-MjyoVUqMpwh6l9c_vc/edit",
+  "live": "https://www.squareyards.com/attibele-in-bangalore-overview-646",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L048",
+  "locality": "Sinhagad Road Pune",
+  "doc": "https://docs.google.com/document/d/1itxZhh784lveqtHV0xsqI-gptLhCyCiekOhX2rCzIRs/edit",
+  "live": "https://www.squareyards.com/sinhagad-road-in-pune-overview-3751",
+  "notes": "v8 template | Conflicting figures on live page (PIN code, rank, counts); doc uses the more plausible one, confirm against page"
+ },
+ {
+  "id": "BB-L049",
+  "locality": "Hosa Road Bangalore",
+  "doc": "https://docs.google.com/document/d/1xHKFXyPufFMp-kkZl138-_0BONNznMQBYuvj-gYak-o/edit",
+  "live": "https://www.squareyards.com/hosa-road-in-bangalore-overview-614",
+  "notes": "v8 template | Page error: live page listed a Delhi metro station (left out). Conflicting figures (PIN code, rank, counts); doc uses the more plausible one, confirm against page. Yellow Line station added after quick web check as live page contradicted itself"
+ },
+ {
+  "id": "BB-L050",
+  "locality": "Koba Gandhinagar",
+  "doc": "https://docs.google.com/document/d/1QTkKhopj64ljCkzibECbfgdGNr4xhcI97B74dM6co1k/edit",
+  "live": "https://www.squareyards.com/koba-in-gandhinagar-overview-44167",
+  "notes": "v8 template | Thin live page: little data, some tables/sections short or omitted; check first"
+ },
+ {
+  "id": "BB-L051",
+  "locality": "Kathwada Ahmedabad",
+  "doc": "https://docs.google.com/document/d/1HolDq0hJosFjnVg__O3ZqL2w4m8xQNPnUYBhGGuUZW8/edit",
+  "live": "https://www.squareyards.com/kathwada-in-ahmedabad-overview-19439",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L052",
+  "locality": "Maruti Nagar Bangalore",
+  "doc": "https://docs.google.com/document/d/10xNmdZEzuwYS1WIphv3o-W3cqMfF2NxbxtuQNub2TzE/edit",
+  "live": "https://www.squareyards.com/maruti-nagar-in-bangalore-overview-10448",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L053",
+  "locality": "Budigere Cross Bangalore",
+  "doc": "https://docs.google.com/document/d/1Jnf0EeXOvgl61GFcdcP3Jc9sZltccFbDZm3hnYTOU7o/edit",
+  "live": "https://www.squareyards.com/budigere-cross-in-bangalore-overview-1441",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L054",
+  "locality": "Sector 7 Dwarka Delhi",
+  "doc": "https://docs.google.com/document/d/1Y5_kHIYKbSwaR8rLDCYnV35U1v9UpSUceMlm_lpwWuU/edit",
+  "live": "https://www.squareyards.com/sector-7-dwarka-in-delhi-overview-65987",
+  "notes": "v8 template"
+ },
+ {
+  "id": "BB-L055",
+  "locality": "Khanda Colony Navi Mumbai",
+  "doc": "https://docs.google.com/document/d/1VlYtLq21oHYzRzqKkts2JV9Kstx8T_iVIT6SJe_TMsw/edit",
+  "live": "https://www.squareyards.com/khanda-colony-in-navi-mumbai-overview-4786",
+  "notes": "v8 template"
+ }
+]
